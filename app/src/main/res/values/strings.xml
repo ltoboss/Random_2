@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Random</string>
+    <string name="sendName">Ir</string>
+    <string name="Comenzar">Comenzar</string>
+    <string name="Letra">Letra:</string>
+    <string name="Tiempo">Tiempo:</string>
+</resources>
